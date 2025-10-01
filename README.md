@@ -1,6 +1,6 @@
 <h1 align="center"><b>Helou! , I'm Tony Virués </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I´m a software developer student, currently my second year. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
+I'm a software developer student, currently my second year. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
 My goal is to continue expanding my knowledge and strengthening my skills as a programmer.
 
  I’m currently learning ...

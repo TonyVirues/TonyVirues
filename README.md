@@ -6,7 +6,7 @@ My goal is to continue expanding my knowledge and strengthening my skills as a p
  I’m currently learning ...
 - Git
 - Web Interface Design
-- Python
+- Python.
 
 ## Skills:
 
